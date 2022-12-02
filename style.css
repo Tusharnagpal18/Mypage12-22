@@ -1,0 +1,14 @@
+.myimg{
+    /* border:2px solid; */
+    border-radius: 50px;
+    height:250px;
+    
+}
+.cmpname{
+    font-family:cursive;
+    color:yellow;
+    font-size: 20px;
+    border: 1px solid white;
+    /* background-color: whitesmoke; */
+    border-radius: 8px;
+}
